@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 5em;
+    color: black;
+}
+h2 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 2.05em;
+    font-style: oblique;
+}
+p {
+    text-align: center;
+    font-style: oblique;
+    font-size: 1.2em;
+    font-weight: 100%;
+    color: red;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 5%;
+    /* position: fixed; */
+  }
+
+.flexbox_center {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    border-radius: 5%;
+    /* position: fixed; */
+}
+
+.margin_space {
+    margin-left: 5%;
+    border-radius: 5%;
+    transition: .25s;
+    /* position: fixed; */
+}
+.margin_space:hover {
+    width: 425px;
+    height: 275px;
+    transition: .25s;
+}
+#bg {
+    background-image: url("https://i.gifer.com/2BM1.gif");
+}
+.Tom {
+    border-radius: 5%;
+    transition: .25s;
+    /* position: fixed; */
+}
+.Tom:hover {
+    width: 425px;
+    height: 275px;
+    transition: .25s
+}
+.island_rep {
+    border-radius: 50%;
+    /* position: fixed; */
+}
+.footer {
+    font-style: oblique;
+    text-align: center;
+    font-weight: 100;
+}
