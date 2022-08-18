@@ -23,9 +23,8 @@ p {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    border-radius: 5%;
-    /* position: fixed; */
-  }
+    border-radius: 5%;  
+}
 
 .flexbox_center {
     display: flex;
